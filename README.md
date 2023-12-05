@@ -1,7 +1,3 @@
-# xinyu
-
-Xinyu's Handover
-
 # Taxi data processing
 
 ## Code file
