@@ -6,7 +6,7 @@
 codes/trip_analysis_1106.ipynb
 ```
 
-- With this notebook, we aggregate order level taxi data into trip level taxi data.
+- With this notebook, we aggregate order level Gojek taxi data into trip level taxi data in Singapore.
 - For example, a passenger can make multiple attempts of taxi-hailing (order-level) for one trip with a certain pair of origin-destination (trip-level). For the method of defining trip, please see the notes in notebook.
 - Several variables are created for each trip, including:
 
