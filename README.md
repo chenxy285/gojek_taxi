@@ -6,7 +6,8 @@
 codes/trip_analysis_1106.ipynb
 ```
 
-- With this notebook, we aggregate order level taxi data into trip level taxi data. For the method of defining trip, please see the notes in notebook.
+- With this notebook, we aggregate order level taxi data into trip level taxi data.
+- For example, a passenger can make multiple attempts of taxi-hailing (a.k.a. orders) for one trip with a certain pair of origin-destination. For the method of defining trip, please see the notes in notebook.
 - Several variables are created for each trip, including:
 
   - `n_order`: the number of orders for each trip
